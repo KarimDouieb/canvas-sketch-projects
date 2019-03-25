@@ -1,0 +1,20 @@
+{
+  "name": "my-first-sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.4.1",
+    "canvas-sketch": "^0.2.0",
+    "canvas-sketch-util": "^1.6.2",
+    "d3": "^5.9.1",
+    "d3-scale": "^2.2.2",
+    "nice-color-palettes": "^2.0.0"
+  }
+}
