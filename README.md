@@ -1,4 +1,4 @@
-This repo is a collection of small sketches exploring the awesome tool [canvas-sketch](https://github.com/mattdesl/canvas-sketch) developped by @mattdesl.
+This repo is a collection of small canvas sketches done with the awesome tool [canvas-sketch](https://github.com/mattdesl/canvas-sketch) developped by @mattdesl.
 
 ## Run a sketch 
 
