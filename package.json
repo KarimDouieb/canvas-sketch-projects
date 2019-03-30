@@ -15,6 +15,7 @@
     "canvas-sketch-util": "^1.6.2",
     "d3": "^5.9.1",
     "d3-scale": "^2.2.2",
+    "gaussian": "^1.1.0",
     "nice-color-palettes": "^2.0.0"
   }
 }
